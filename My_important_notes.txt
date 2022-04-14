@@ -1,0 +1,14 @@
+Daylight saving time 2019 in United Kingdom began at 1:00 AM on Sunday, March 31 and ends at 2:00 AM on Sunday, October 27, 2019.
+
+Use weekly average accidents (groupby week_num) to determine impact of DST.
+
+Use hourly average accidents (groupby hour) to determine impact of sunrise and sunset.
+
+Use road type to fill missing values in junction control, junction detail, 2nd road class
+
+Use pedestrian_movement to fill missing values in pedestrian_location.
+
+impact plot:
+1. select accidents for period (week_num, day_num, etc.)
+2. groupby day_name and hour
+3. pyramid, difference plot
