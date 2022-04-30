@@ -8,7 +8,27 @@ Use road type to fill missing values in junction control, junction detail, 2nd r
 
 Use pedestrian_movement to fill missing values in pedestrian_location.
 
-impact plot:
+impact measure plan:
 1. select accidents for period (week_num, day_num, etc.)
 2. groupby day_name and hour
 3. pyramid, difference plot
+4. test for significance
+
+premier league weekend indicator: august 9 2019 to July 26 2020
+weekend = fri-sat-sun
+
+observation:
+1. night accidents was significantly higher on fridays, saturdays, sundays all year.
+2. commonly, car accidents occurred highest in 30mph speed limit zones on a road on which they can move freely sideways.
+3. alot of old cars (7 years and above) were frequently involved in accidents
+4. Ages 16 - 65 (working ages) were most involved in accidents. 
+
+
+Cause: night vision impairment, sleepy/tired drivers, drunk driving (DUI), poor lighting
+
+Recommendation:
+1. Enforce a strict adherence to the speed limit especially on weekend nights.
+2. Increase the speed bumps and add minor demarcations to the busiest non-restricted main carriageways in places like Birmingham, Kent, and Cornwall.
+3. Ensure that all lights along public roads are in good conditions to aid night visibility.
+4. Increase control (human/facility) to check the alcohol levels and car lights especially at weekend nights
+5. More road accident awareness campaigns should be done in Birmingham, Leeds and Cornwall especially about dangers of over-speeding on single carriageways.
