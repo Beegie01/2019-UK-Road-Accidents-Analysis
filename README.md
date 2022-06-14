@@ -9,10 +9,10 @@ After dropping the missing rows for variables missing less than 2.5% of total nu
 ii.	FEATURE ENGINEERING<br>
 Engineered features include:<br>
 1.	part_of_day: 
-1  morning (5am – 11.59am)
-2  afternoon (12pm – 16.59pm) 
-3  evening (17 – 20.59pm)
-4  night (21pm – 4.59am)
+1 --> morning (5am – 11.59am)
+2 --> afternoon (12pm – 16.59pm) 
+3 --> evening (17 – 20.59pm)
+4 --> night (21pm – 4.59am)
 2.	is_weekend: Weekend is Saturday and Sunday.
 3.	quarter: yearly quarters
 4.	season: (autumn, spring, summer, and winter).
