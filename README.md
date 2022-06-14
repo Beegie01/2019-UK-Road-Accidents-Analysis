@@ -23,4 +23,8 @@ The time and date columns were dropped to minimize information duplicity. <br><b
 
 iii. CORRELATION ANALYSIS<br>
 Correlated features are those with absolute Pearson's correlation values ≥ 0.5 (50%)
-![image](https://user-images.githubusercontent.com/76821049/173705642-ac9c061e-73a0-40ce-aade-d70ab2aec5db.png)<br>
+![image](https://user-images.githubusercontent.com/76821049/173705642-ac9c061e-73a0-40ce-aade-d70ab2aec5db.png)<br><br>
+
+iv. INFERENTIAL STATISTICS<br>
+Statistical testing was performed using a pooled variance. Statistical significance was established when the mean_difference ≥ 2 x pooled_std (95% confidence), or 3 x pooled_std (99% confidence).<br>
+
