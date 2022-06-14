@@ -27,4 +27,5 @@ Correlated features are those with absolute Pearson's correlation values ≥ 0.5
 
 iv. INFERENTIAL STATISTICS<br>
 Statistical testing was performed using a pooled variance. Statistical significance was established when the mean_difference ≥ 2 x pooled_std (95% confidence), or 3 x pooled_std (99% confidence).<br>
-
+Total Accidents
+![image](https://user-images.githubusercontent.com/76821049/173707051-c74f17eb-171f-4b48-a86b-5a15ffc69e4e.png)
