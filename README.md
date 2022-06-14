@@ -5,4 +5,5 @@ The project consisted of the following subtasks: data cleaning, feature engineer
 DATA CLEANING:<br>
 ![image](https://user-images.githubusercontent.com/76821049/173702745-a483ae4f-b175-4de5-99b2-215d1e23a97f.png)<br>
 After dropping the missing rows for variables missing less than 2.5% of total number of rows, the remaining missing rows were replaced with modal values for each unique category of their top 2 correlated variables.<br>
-![image](https://user-images.githubusercontent.com/76821049/173704301-f7057d6f-b6d0-4cd6-a8c3-e96fd14be0fc.png)
+![image](https://user-images.githubusercontent.com/76821049/173704301-f7057d6f-b6d0-4cd6-a8c3-e96fd14be0fc.png)<br>
+Retained 93% of the data (after cleaning) for further analysis and prediction.
