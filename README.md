@@ -84,3 +84,13 @@ Below diagrams illustrate that the most accident-prone vehicles were 7 year-old 
 #### Influence of the Premier League season on road accidents<br>
 [This](https://user-images.githubusercontent.com/76821049/173863502-57f1e2fd-b51a-403a-b949-2c323efd22dd.png) indicates that road accidents during league season was highest on Tuesday, Friday, and Saturday afternoons. While accidents during league offseason was highest on Monday, Thursday, and Friday afternoons.<br>
 
+### v. RECOMMENDATIONS
+1. More campaigns should be taken to venues like football stadiums and sports centers in the top ten
+districts to educate young males about dangers of over-speeding, drunk driving, and driving at 
+sunrise and sunset hours.
+2. Always enforce a strict adherence to the speed limit, penalize defaulters and test the alcohol/drug
+level of suspected drivers before allowing them back on the road especially on Friday, Saturday and 
+Sunday nights.
+3. Increase the speed bumps and add minor road demarcations (where possible) to the busiest nonrestricted single carriageways in places like Birmingham, Kent, and Cornwall.
+4. Ensure that all streetlights along public roads are in good conditions to aid night visibility and 
+increase traffic controls (human/facility) on single carriageways
