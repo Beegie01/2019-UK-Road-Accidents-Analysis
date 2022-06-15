@@ -58,20 +58,24 @@ Statistical test results suggest that sunrise caused an increase in accidents at
 Statistical test results suggest that sunset caused a decline in accidents at 14pm – 15.59pm.<br>
 [This diagram](https://user-images.githubusercontent.com/76821049/173785534-3c6e38fc-b909-427a-bd27-998e7c51ee5c.png) shows the difference between accidents within 2 hours BEFORE vs. 2 hours AFTER sunset<br><br>
 
-#### Influence of Vehicular Variables on road accidents<br>
+#### Influence of vehicular conditions on road accidents<br>
 Below diagrams illustrate that the most accident-prone vehicles were 7 year-old cars, vans, and pedal cycles having 124cc engine-capacity moving ahead on an unrestricted main carriageway in a 30mph speed limit zone.<br>
 [Association_between_vehicle_type, vehicle_age, engine_capacity, and propulsion_code.png](https://user-images.githubusercontent.com/76821049/173786685-22af2678-2099-4156-8947-4297654b85ef.png)<br>
 [Association_between_vehicle_type, speed_limit, and vehicle propulsion.png](https://user-images.githubusercontent.com/76821049/173791164-c1f78588-66d0-4553-b782-e559ff732022.png)<br>
 [Association_between_vehicle_location_restricted_lane, vehicle_manoeuvre, propulsion_code.png](https://user-images.githubusercontent.com/76821049/173851789-057ca721-7dbc-4410-84bf-e0a3fd27ef39.png)<br><br>
 
-#### Influence of Weather on road accidents<br>
+#### Influence of weather conditions on road accidents<br>
 [Here,](https://user-images.githubusercontent.com/76821049/173803895-14ca0506-f85c-407a-b87c-8f4a464f55a0.png) it is revealed that all year round most accidents happenned on a dry road surface under fine weather conditions with no high wind, **except the autumn** during which most accidents happened on a wet/damp road surface when it rained with no high wind.<br><br>
 
-#### Influence of geographic variables<br>
+#### Influence of geographic location on road accidents<br>
 [Here](https://user-images.githubusercontent.com/76821049/173845340-3d4a537e-7e0e-40ef-97a1-612bda4a7481.png) are the **top ten UK districts** with the highest number of accidents in 2019. Majority of the top ten districts are located in the **central region**<br>
 [Here](https://user-images.githubusercontent.com/76821049/173845893-f67a1e77-e860-4fdc-af72-71ef90934193.png) are the **top ten UK highways** with highest number of accidents in 2019. Most of the top ten highways are located in the **eastern region**<br>
 [Here](https://user-images.githubusercontent.com/76821049/173852554-ef90ef2d-56b5-4742-98af-b9f3efa0e1da.png) are the **top three UK districts** with highest accidents per month.<br>
-[Here](https://user-images.githubusercontent.com/76821049/173852832-acce4c1a-8be6-433a-8bb9-936100134f92.png) are the **top three UK highways** with highest accidents per month.<br>
+[Here](https://user-images.githubusercontent.com/76821049/173852832-acce4c1a-8be6-433a-8bb9-936100134f92.png) are the **top three UK highways** with highest accidents per month.<br><br>
+
+#### Favourable situations for road accidents<br>
+[This](https://user-images.githubusercontent.com/76821049/173854326-caf1ba47-edf7-44c0-9d9d-8357d5069ebf.png) illustrates that the majority of morning, afternoon, and evening accidents happened on weekdays in urban areas with speed limit of 30mph under daylight on single carriageways.
+[This](https://user-images.githubusercontent.com/76821049/173859085-ac629efe-7664-45d2-a5b1-4ed24afb9044.png) indicates that most of the road accidents happened to car drivers and passengers travelling on single carriageways with little or no junction controls and without any pedestrian crossing control.
 
 
 
