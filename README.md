@@ -61,7 +61,8 @@ Statistical test results suggest that sunset caused a decline in accidents at 14
 #### Influence of Vehicular Variables on road accidents<br>
 Below diagrams illustrate that the most accident-prone vehicles were 7 year-old cars, vans, and pedal cycles having 124cc engine-capacity moving ahead on an unrestricted main carriageway in a 30mph speed limit zone.<br>
 [Association_between_vehicle_type, vehicle_age, engine_capacity, and propulsion_code.png](https://user-images.githubusercontent.com/76821049/173786685-22af2678-2099-4156-8947-4297654b85ef.png)<br>
-[Association_between_vehicle_type, speed_limit, and vehicle propulsion.png](https://user-images.githubusercontent.com/76821049/173791164-c1f78588-66d0-4553-b782-e559ff732022.png)<br><br>
+[Association_between_vehicle_type, speed_limit, and vehicle propulsion.png](https://user-images.githubusercontent.com/76821049/173791164-c1f78588-66d0-4553-b782-e559ff732022.png)<br>
+[Association_between_vehicle_location_restricted_lane, vehicle_manoeuvre, propulsion_code.png](https://user-images.githubusercontent.com/76821049/173851789-057ca721-7dbc-4410-84bf-e0a3fd27ef39.png)<br><br>
 
 #### Influence of Weather on road accidents<br>
 [Here,](https://user-images.githubusercontent.com/76821049/173803895-14ca0506-f85c-407a-b87c-8f4a464f55a0.png) it is revealed that all year round most accidents happenned on a dry road surface under fine weather conditions with no high wind, **except the autumn** during which most accidents happened on a wet/damp road surface when it rained with no high wind.<br><br>
