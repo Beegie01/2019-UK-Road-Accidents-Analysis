@@ -74,8 +74,13 @@ Below diagrams illustrate that the most accident-prone vehicles were 7 year-old 
 [Here](https://user-images.githubusercontent.com/76821049/173852832-acce4c1a-8be6-433a-8bb9-936100134f92.png) are the **top three UK highways** with highest accidents per month.<br><br>
 
 #### Favourable situations for road accidents<br>
-[This](https://user-images.githubusercontent.com/76821049/173854326-caf1ba47-edf7-44c0-9d9d-8357d5069ebf.png) illustrates that the majority of morning, afternoon, and evening accidents happened on weekdays in urban areas with speed limit of 30mph under daylight on single carriageways.
-[This](https://user-images.githubusercontent.com/76821049/173859085-ac629efe-7664-45d2-a5b1-4ed24afb9044.png) indicates that most of the road accidents happened to car drivers and passengers travelling on single carriageways with little or no junction controls and without any pedestrian crossing control.
+[This](https://user-images.githubusercontent.com/76821049/173854326-caf1ba47-edf7-44c0-9d9d-8357d5069ebf.png) illustrates that the majority of morning, afternoon, and evening accidents happened on weekdays in urban areas with speed limit of 30mph under daylight on single carriageways.<br>
+[This](https://user-images.githubusercontent.com/76821049/173859085-ac629efe-7664-45d2-a5b1-4ed24afb9044.png) indicates that most of the road accidents happened to car drivers and passengers travelling on single carriageways with little or no junction controls and without any pedestrian crossing control.<br><br>
 
+#### Influence of Driver-related variables<br>
+[This](https://user-images.githubusercontent.com/76821049/173860703-222e8f65-b65e-4232-b5c9-36543c3f8238.png) indicates that the most accident-prone drivers are male drivers between ages 16 and 65 years.
+[This](https://user-images.githubusercontent.com/76821049/173861914-2cf4bb43-7e80-4c6a-8577-3ba0aaf6e9b2.png) indicates that male car drivers driving on undemarcated main carriageways heading to unknown destinations were the most likely victims of minor and serious accidents.<br><br>
 
+#### Influence of the Premier League season on road accidents<br>
+[This](https://user-images.githubusercontent.com/76821049/173863502-57f1e2fd-b51a-403a-b949-2c323efd22dd.png) indicates that road accidents during league season was highest on Tuesday, Friday, and Saturday afternoons. While accidents during league offseason was highest on Monday, Thursday, and Friday afternoons.<br>
 
