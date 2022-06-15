@@ -52,15 +52,21 @@ Below is an illustration of weekday accidents per part of day<br>
 
 #### Effect of Daylight Saving Time (DST) on road accidents<br>
 ![image](https://user-images.githubusercontent.com/76821049/173783234-ac2c105e-7efe-4084-889e-8b56d392a0ab.png)<br>
-Statistical test results suggest that onset of DST caused a decrease in 9am – 11.59am accidents.<br><br>
-![image](https://user-images.githubusercontent.com/76821049/173784235-80d259bd-fab5-49e3-b002-17450e6789f5.png)<br><br>
+Statistical test results suggest that onset of DST caused a decrease in 9am – 11.59am accidents.<br>
+Below illustrates the difference between hourly accidents that occurred during the FIRST week of DST vs. the week BEFORE<br>
+![image](https://user-images.githubusercontent.com/76821049/173798168-750b2e7a-6c90-474c-b84a-29f8c3ccca04.png)<br>
+
+Below illustrates the difference between hourly accidents that occurred during the LAST week of DST vs. the week AFTER<br>
+![image](https://user-images.githubusercontent.com/76821049/173798742-cc475449-c5d3-4a01-8fea-5866d1fcb538.png)<br><br>
 
 #### Impact of Sunrise and Sunset on road accidents<br>
-![image](https://user-images.githubusercontent.com/76821049/173785277-f179d886-f070-4186-8da9-f08f8e2e6da9.png)<br>
-Statistical test results suggest that sunrise caused an increase in accidents at 7am – 9.59am.<br><br>
+Statistical test results suggest that sunrise caused an increase in accidents at 7am – 9.59am.<br>
+Below diagram shows the difference between accidents within 2 hours BEFORE vs. 2 hours AFTER sunrise<br>
+![image](https://user-images.githubusercontent.com/76821049/173785277-f179d886-f070-4186-8da9-f08f8e2e6da9.png)<br><br>
 
-![image](https://user-images.githubusercontent.com/76821049/173785534-3c6e38fc-b909-427a-bd27-998e7c51ee5c.png)<br>
-Statistical test results suggest that sunset caused a decline in accidents at 14pm – 15.59pm.<br><br>
+Statistical test results suggest that sunset caused a decline in accidents at 14pm – 15.59pm.<br>
+Below diagram shows the difference between accidents within 2 hours BEFORE vs. 2 hours AFTER sunset<br>
+![image](https://user-images.githubusercontent.com/76821049/173785534-3c6e38fc-b909-427a-bd27-998e7c51ee5c.png)<br><br>
 
 #### Influence of Vehicular Variables on road accidents<br>
 Below diagrams illustrate that the most accident-prone vehicles were 7 year-old cars, vans, and pedal cycles having 124cc engine-capacity moving ahead on an unrestricted main carriageway in a 30mph speed limit zone.
