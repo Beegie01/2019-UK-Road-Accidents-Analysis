@@ -46,4 +46,16 @@ Statistical test results suggest that nighttime accidents were more likely to oc
 #### Effect of Daylight Saving Time (DST) on road accidents<br>
 ![image](https://user-images.githubusercontent.com/76821049/173783234-ac2c105e-7efe-4084-889e-8b56d392a0ab.png)<br>
 Statistical test results suggest that onset of DST caused a decrease in 9am – 11.59am accidents.<br><br>
-![image](https://user-images.githubusercontent.com/76821049/173784235-80d259bd-fab5-49e3-b002-17450e6789f5.png)<br>
+![image](https://user-images.githubusercontent.com/76821049/173784235-80d259bd-fab5-49e3-b002-17450e6789f5.png)<br><br>
+
+#### Impact of Sunrise and Sunset on road accidents<br>
+![image](https://user-images.githubusercontent.com/76821049/173785277-f179d886-f070-4186-8da9-f08f8e2e6da9.png)<br>
+Statistical test results suggest that sunrise caused an increase in accidents at 7am – 9.59am.<br><br>
+
+![image](https://user-images.githubusercontent.com/76821049/173785534-3c6e38fc-b909-427a-bd27-998e7c51ee5c.png)<br>
+Statistical test results suggest that sunset caused a decline in accidents at 14pm – 15.59pm.<br><br>
+
+#### Influence of Vehicular Variables<br>
+![image](https://user-images.githubusercontent.com/76821049/173786685-22af2678-2099-4156-8947-4297654b85ef.png)<br>
+![image](https://user-images.githubusercontent.com/76821049/173787103-f72b5d2c-b667-4f8e-95ad-b7eedf4a6b0b.png)<br>
+Above diagrams illustrate that most accident-prone vehicles 7 year-old cars, vans, and pedal cycle having 124cc engine-capacity moving ahead on an unrestricted main carriageway in an area with speed limit of 30mph.
