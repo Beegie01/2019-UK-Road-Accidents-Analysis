@@ -76,3 +76,8 @@ Below diagrams illustrate that the most accident-prone vehicles were 7 year-old 
 #### Influence of Weather on road accidents<br>
 Below illustrates that most accidents happenned on a dry road surface under fine weather conditions with no high wind, except the autumn season during which most accidents happened when it rained with no high wind on a wet/damp road surface .<br>
 ![image](https://user-images.githubusercontent.com/76821049/173792405-7c930e6f-4d19-431e-9f79-fad9e6951c5e.png)<br><br>
+
+#### Influence of geographic variables<br>
+![image](https://user-images.githubusercontent.com/76821049/173803311-c93984ab-9008-40e2-99de-a4f997f0488a.png)<br>
+![image](https://user-images.githubusercontent.com/76821049/173803451-bd9f5a7e-20ae-430d-bfd2-c04d511a0b75.png)
+
