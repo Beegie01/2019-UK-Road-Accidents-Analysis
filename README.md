@@ -68,5 +68,5 @@ Below diagrams illustrate that the most accident-prone vehicles were 7 year-old 
 
 #### Influence of geographic variables<br>
 [Here](https://user-images.githubusercontent.com/76821049/173845340-3d4a537e-7e0e-40ef-97a1-612bda4a7481.png) are the top ten UK districts with highest accidents in 2019.<br>
-[Here](https://user-images.githubusercontent.com/76821049/173845893-f67a1e77-e860-4fdc-af72-71ef90934193.png) are the top ten UK highways with highest accidents in 2019.<br>
+[Here](https://user-images.githubusercontent.com/76821049/173845893-f67a1e77-e860-4fdc-af72-71ef90934193.png) are the top ten UK highways with highest accidents in 2019. We can see that the most of the highways are located in the **eastern region**<br>
 
