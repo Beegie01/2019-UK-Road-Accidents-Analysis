@@ -54,13 +54,12 @@ Statistical test results suggest that onset of DST caused a decrease in 9am – 
 
 #### Impact of Sunrise and Sunset on road accidents<br>
 Statistical test results suggest that sunrise caused an increase in accidents at 7am – 9.59am.<br>
-[This diagram](https://user-images.githubusercontent.com/76821049/173785277-f179d886-f070-4186-8da9-f08f8e2e6da9.png) shows the difference between accidents within 2 hours BEFORE vs. 2 hours AFTER sunrise<br><br>
-
+[This diagram](https://user-images.githubusercontent.com/76821049/173785277-f179d886-f070-4186-8da9-f08f8e2e6da9.png) shows the difference between accidents within 2 hours BEFORE vs. 2 hours AFTER sunrise<br>
 Statistical test results suggest that sunset caused a decline in accidents at 14pm – 15.59pm.<br>
 [This diagram](https://user-images.githubusercontent.com/76821049/173785534-3c6e38fc-b909-427a-bd27-998e7c51ee5c.png) shows the difference between accidents within 2 hours BEFORE vs. 2 hours AFTER sunset<br><br>
 
 #### Influence of Vehicular Variables on road accidents<br>
-Below diagrams illustrate that the most accident-prone vehicles were 7 year-old cars, vans, and pedal cycles having 124cc engine-capacity moving ahead on an unrestricted main carriageway in a 30mph speed limit zone.
+Below diagrams illustrate that the most accident-prone vehicles were 7 year-old cars, vans, and pedal cycles having 124cc engine-capacity moving ahead on an unrestricted main carriageway in a 30mph speed limit zone.<br>
 [Association_between_vehicular_variables1.png](https://user-images.githubusercontent.com/76821049/173786685-22af2678-2099-4156-8947-4297654b85ef.png)<br>
 [Association_between_vehicular_variables2.png](https://user-images.githubusercontent.com/76821049/173791164-c1f78588-66d0-4553-b782-e559ff732022.png)<br><br>
 
@@ -68,6 +67,6 @@ Below diagrams illustrate that the most accident-prone vehicles were 7 year-old 
 [Here,](https://user-images.githubusercontent.com/76821049/173803895-14ca0506-f85c-407a-b87c-8f4a464f55a0.png) it is revealed that most accidents happenned on a dry road surface under fine weather conditions with no high wind, except the autumn season during which most accidents happened when it rained with no high wind on a wet/damp road surface.<br><br>
 
 #### Influence of geographic variables<br>
-![image](https://user-images.githubusercontent.com/76821049/173803311-c93984ab-9008-40e2-99de-a4f997f0488a.png)<br>
-![image](https://user-images.githubusercontent.com/76821049/173803451-bd9f5a7e-20ae-430d-bfd2-c04d511a0b75.png)<br>
+Top ten [UK districts](https://user-images.githubusercontent.com/76821049/173845340-3d4a537e-7e0e-40ef-97a1-612bda4a7481.png) ranked according to frequency of accidents.
+Top ten [UK highways](https://user-images.githubusercontent.com/76821049/173845893-f67a1e77-e860-4fdc-af72-71ef90934193.png) ranked according to frequency of accidents.
 
