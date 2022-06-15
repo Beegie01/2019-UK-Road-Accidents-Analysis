@@ -23,13 +23,13 @@ The time and date columns were dropped to minimize information duplicity. <br><b
 
 ### iii. CORRELATION ANALYSIS<br>
 Correlated features are those with absolute Pearson's correlation values ≥ 0.5 (50%)
-![image](https://user-images.githubusercontent.com/76821049/173705642-ac9c061e-73a0-40ce-aade-d70ab2aec5db.png)<br><br>
+[correlated_features.png](https://user-images.githubusercontent.com/76821049/173705642-ac9c061e-73a0-40ce-aade-d70ab2aec5db.png)<br><br>
 
 ### iv. ANALYSIS & INFERENTIAL STATISTICS<br>
 Statistical testing was performed using a pooled variance. Statistical significance was established when the mean_difference ≥ 2 x pooled_std (95% confidence), or 3 x pooled_std (99% confidence).<br><br>
 
 #### Overall Observation<br>
-![image](https://user-images.githubusercontent.com/76821049/173780394-dcdd3df2-a5e9-414a-b6a5-235c062cc562.png)<br><br>
+[Overall_hourly_accident_distribution.png](https://user-images.githubusercontent.com/76821049/173780394-dcdd3df2-a5e9-414a-b6a5-235c062cc562.png)<br><br>
 
 #### AM hourly accidents VS. PM hourly accidents<br>
 Statistical test results suggest that sunlight (brightness of day) which promotes human activity in general, increased the likelihood of an accident.<br>
