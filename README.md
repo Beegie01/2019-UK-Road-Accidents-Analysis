@@ -26,9 +26,11 @@ Correlated features are those with absolute Pearson's correlation values ≥ 0.5
 ![image](https://user-images.githubusercontent.com/76821049/173705642-ac9c061e-73a0-40ce-aade-d70ab2aec5db.png)<br><br>
 
 iv. INFERENTIAL STATISTICS<br>
-Statistical testing was performed using a pooled variance. Statistical significance was established when the mean_difference ≥ 2 x pooled_std (95% confidence), or 3 x pooled_std (99% confidence).<br>
+Statistical testing was performed using a pooled variance. Statistical significance was established when the mean_difference ≥ 2 x pooled_std (95% confidence), or 3 x pooled_std (99% confidence).<br><br>
 Overall Observation<br>
 ![image](https://user-images.githubusercontent.com/76821049/173707051-c74f17eb-171f-4b48-a86b-5a15ffc69e4e.png)<br>
 Statistical test results suggest that activity of the part of day increased the likelihood of an accident compared to inactivity associated with nighttime.<br>
 ![image](https://user-images.githubusercontent.com/76821049/173707403-288fadad-58b4-4aa5-95a0-a34424164a5d.png)<br>
-Statistical test results suggest that overall accidents were more likely to occur on the weekday than the weekend probably because more people commute on weekdays (e.g to schools, banks).
+Statistical test results suggest that overall accidents were more likely to occur on the weekday than the weekend probably because more people commute on weekdays (e.g to schools, banks).<br><br>
+![image](https://user-images.githubusercontent.com/76821049/173777508-fc7ce2e2-fdb6-4016-948f-45d139d34681.png)<br>
+Statistical test results suggest that nighttime accidents were more likely to occur on a Friday-Saturday-Sunday than a Monday-Tuesday-Wednesday-Thursday.
