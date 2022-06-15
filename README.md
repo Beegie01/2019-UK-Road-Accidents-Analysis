@@ -38,8 +38,10 @@ Below is an illustration of the hourly difference between AM and PM accidents<br
 
 #### Daily road accidents<br>
 Statistical test results suggest that overall accidents were more likely to occur on the weekday than the weekend probably because more people commute on weekdays (e.g to schools, banks).<br>
-Below is an illustration of overall and seasonal weekday accidents<br>
-![image](https://user-images.githubusercontent.com/76821049/173707403-288fadad-58b4-4aa5-95a0-a34424164a5d.png)<br><br>
+Below is an illustration of overall weekday accidents<br>
+![image](https://user-images.githubusercontent.com/76821049/173796074-c541b04e-8835-4e45-9932-0528044f9bd7.png)<br>
+Below is an illustration of the seasonal weekday accidents<br>
+![image](https://user-images.githubusercontent.com/76821049/173796298-c5ed0f74-f222-4225-85ad-8aa4e56b044d.png)<br><br>
 
 Statistical test results suggest that nighttime accidents were more likely to occur on a Friday-Saturday-Sunday than a Monday-Tuesday-Wednesday-Thursday.<br>
 Below is an illustration of weekday accidents per part of day<br>
