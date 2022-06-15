@@ -64,7 +64,7 @@ Below diagrams illustrate that the most accident-prone vehicles were 7 year-old 
 [Association_between_vehicular_variables2.png](https://user-images.githubusercontent.com/76821049/173791164-c1f78588-66d0-4553-b782-e559ff732022.png)<br><br>
 
 #### Influence of Weather on road accidents<br>
-[Here,](https://user-images.githubusercontent.com/76821049/173803895-14ca0506-f85c-407a-b87c-8f4a464f55a0.png) it is revealed that most accidents happenned on a dry road surface under fine weather conditions with no high wind, except the autumn season during which most accidents happened when it rained with no high wind on a wet/damp road surface.<br><br>
+[Here,](https://user-images.githubusercontent.com/76821049/173803895-14ca0506-f85c-407a-b87c-8f4a464f55a0.png) it is revealed that all year round most accidents happenned on a dry road surface under fine weather conditions with no high wind, **except the autumn** during which most accidents happened on a wet/damp road surface when it rained with no high wind.<br><br>
 
 #### Influence of geographic variables<br>
 [Here](https://user-images.githubusercontent.com/76821049/173845340-3d4a537e-7e0e-40ef-97a1-612bda4a7481.png) are the **top ten UK districts** with the highest number of accidents in 2019. Majority of the top ten districts are located in the **central region**<br>
