@@ -22,19 +22,18 @@ Engineered features include:<br>
 The time and date columns were dropped to minimize information duplicity. <br><br>
 
 ### iii. CORRELATION ANALYSIS<br>
-Correlated features are those with absolute Pearson's correlation values ≥ 0.5 (50%)
+Correlated features are those with absolute Pearson's correlation values ≥ 0.5 (50%)<br>
 [correlated_features.png](https://user-images.githubusercontent.com/76821049/173705642-ac9c061e-73a0-40ce-aade-d70ab2aec5db.png)<br><br>
 
 ### iv. ANALYSIS & INFERENTIAL STATISTICS<br>
 Statistical testing was performed using a pooled variance. Statistical significance was established when the mean_difference ≥ 2 x pooled_std (95% confidence), or 3 x pooled_std (99% confidence).<br><br>
 
 #### Overall Observation<br>
-[Overall_hourly_accident_distribution.png](https://user-images.githubusercontent.com/76821049/173780394-dcdd3df2-a5e9-414a-b6a5-235c062cc562.png)<br><br>
+[Total_hourly_accident_distribution.png](https://user-images.githubusercontent.com/76821049/173780394-dcdd3df2-a5e9-414a-b6a5-235c062cc562.png)<br><br>
 
 #### AM hourly accidents VS. PM hourly accidents<br>
 Statistical test results suggest that sunlight (brightness of day) which promotes human activity in general, increased the likelihood of an accident.<br>
-Below is an illustration of the hourly difference between AM and PM accidents<br>
-![image](https://user-images.githubusercontent.com/76821049/173707051-c74f17eb-171f-4b48-a86b-5a15ffc69e4e.png)<br>
+![Here](https://user-images.githubusercontent.com/76821049/173707051-c74f17eb-171f-4b48-a86b-5a15ffc69e4e.png) is an illustration of the hourly difference between AM and PM accidents<br><br>
 
 #### Daily road accidents<br>
 Statistical test results suggest that overall accidents were more likely to occur on the weekday than the weekend probably because more people commute on weekdays (e.g to schools, banks).<br>
