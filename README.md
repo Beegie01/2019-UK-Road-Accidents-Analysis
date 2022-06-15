@@ -33,48 +33,40 @@ Statistical testing was performed using a pooled variance. Statistical significa
 
 #### AM hourly accidents VS. PM hourly accidents<br>
 Statistical test results suggest that sunlight (brightness of day) which promotes human activity in general, increased the likelihood of an accident.<br>
-![Here](https://user-images.githubusercontent.com/76821049/173707051-c74f17eb-171f-4b48-a86b-5a15ffc69e4e.png) is an illustration of the hourly difference between AM and PM accidents<br><br>
+[Here](https://user-images.githubusercontent.com/76821049/173707051-c74f17eb-171f-4b48-a86b-5a15ffc69e4e.png) is an illustration of the hourly difference between AM and PM accidents<br><br>
 
 #### Daily road accidents<br>
 Statistical test results suggest that overall accidents were more likely to occur on the weekday than the weekend probably because more people commute on weekdays (e.g to schools, banks).<br>
-Below is an illustration of overall weekday accidents<br>
-![image](https://user-images.githubusercontent.com/76821049/173796074-c541b04e-8835-4e45-9932-0528044f9bd7.png)<br>
-Below is an illustration of the seasonal weekday accidents<br>
-![image](https://user-images.githubusercontent.com/76821049/173796298-c5ed0f74-f222-4225-85ad-8aa4e56b044d.png)<br><br>
+[Here](https://user-images.githubusercontent.com/76821049/173796074-c541b04e-8835-4e45-9932-0528044f9bd7.png) is an illustration of overall weekday accidents<br>
+[Here](https://user-images.githubusercontent.com/76821049/173796298-c5ed0f74-f222-4225-85ad-8aa4e56b044d.png) is an illustration of the seasonal weekday accidents<br><br>
 
 Statistical test results suggest that nighttime accidents were more likely to occur on a Friday-Saturday-Sunday than a Monday-Tuesday-Wednesday-Thursday.<br>
-Below is an illustration of weekday accidents per part of day<br>
-![image](https://user-images.githubusercontent.com/76821049/173777508-fc7ce2e2-fdb6-4016-948f-45d139d34681.png)<br><br>
+[Here](https://user-images.githubusercontent.com/76821049/173777508-fc7ce2e2-fdb6-4016-948f-45d139d34681.png) is an illustration of weekday accidents per part of day<br><br>
 
 #### Pedestrian Accidents<br>
-![image](https://user-images.githubusercontent.com/76821049/173781853-d62304e3-b029-45a2-9c19-ae8fe1907ef0.png)<br><br>
+[Pedestrian_hourly_accidents.png](https://user-images.githubusercontent.com/76821049/173781853-d62304e3-b029-45a2-9c19-ae8fe1907ef0.png)<br><br>
 
 #### Effect of Daylight Saving Time (DST) on road accidents<br>
-![image](https://user-images.githubusercontent.com/76821049/173783234-ac2c105e-7efe-4084-889e-8b56d392a0ab.png)<br>
+[DST.png](https://user-images.githubusercontent.com/76821049/173783234-ac2c105e-7efe-4084-889e-8b56d392a0ab.png)<br>
 Statistical test results suggest that onset of DST caused a decrease in 9am – 11.59am accidents.<br>
-Below illustrates the difference between hourly accidents that occurred during the FIRST week of DST vs. the week BEFORE<br>
-![image](https://user-images.githubusercontent.com/76821049/173798168-750b2e7a-6c90-474c-b84a-29f8c3ccca04.png)<br>
+[Here](https://user-images.githubusercontent.com/76821049/173798168-750b2e7a-6c90-474c-b84a-29f8c3ccca04.png) illustrates the difference between hourly accidents that occurred during the FIRST week of DST vs. the week BEFORE<br>
 
-Below illustrates the difference between hourly accidents that occurred during the LAST week of DST vs. the week AFTER<br>
-![image](https://user-images.githubusercontent.com/76821049/173798742-cc475449-c5d3-4a01-8fea-5866d1fcb538.png)<br><br>
+[Here](https://user-images.githubusercontent.com/76821049/173798742-cc475449-c5d3-4a01-8fea-5866d1fcb538.png) illustrates the difference between hourly accidents that occurred during the LAST week of DST vs. the week AFTER<br><br>
 
 #### Impact of Sunrise and Sunset on road accidents<br>
 Statistical test results suggest that sunrise caused an increase in accidents at 7am – 9.59am.<br>
-Below diagram shows the difference between accidents within 2 hours BEFORE vs. 2 hours AFTER sunrise<br>
-![image](https://user-images.githubusercontent.com/76821049/173785277-f179d886-f070-4186-8da9-f08f8e2e6da9.png)<br><br>
+[Here](https://user-images.githubusercontent.com/76821049/173785277-f179d886-f070-4186-8da9-f08f8e2e6da9.png) diagram shows the difference between accidents within 2 hours BEFORE vs. 2 hours AFTER sunrise<br><br>
 
 Statistical test results suggest that sunset caused a decline in accidents at 14pm – 15.59pm.<br>
-Below diagram shows the difference between accidents within 2 hours BEFORE vs. 2 hours AFTER sunset<br>
-![image](https://user-images.githubusercontent.com/76821049/173785534-3c6e38fc-b909-427a-bd27-998e7c51ee5c.png)<br><br>
+[Here](https://user-images.githubusercontent.com/76821049/173785534-3c6e38fc-b909-427a-bd27-998e7c51ee5c.png) diagram shows the difference between accidents within 2 hours BEFORE vs. 2 hours AFTER sunset<br><br>
 
 #### Influence of Vehicular Variables on road accidents<br>
 Below diagrams illustrate that the most accident-prone vehicles were 7 year-old cars, vans, and pedal cycles having 124cc engine-capacity moving ahead on an unrestricted main carriageway in a 30mph speed limit zone.
-![image](https://user-images.githubusercontent.com/76821049/173786685-22af2678-2099-4156-8947-4297654b85ef.png)<br>
-![image](https://user-images.githubusercontent.com/76821049/173791164-c1f78588-66d0-4553-b782-e559ff732022.png)<br><br>
+[Association_between_vehicular_variables1.png](https://user-images.githubusercontent.com/76821049/173786685-22af2678-2099-4156-8947-4297654b85ef.png)<br>
+[Association_between_vehicular_variables2.png](https://user-images.githubusercontent.com/76821049/173791164-c1f78588-66d0-4553-b782-e559ff732022.png)<br><br>
 
 #### Influence of Weather on road accidents<br>
-Below illustrates that most accidents happenned on a dry road surface under fine weather conditions with no high wind, except the autumn season during which most accidents happened when it rained with no high wind on a wet/damp road surface .<br>
-![image](https://user-images.githubusercontent.com/76821049/173803895-14ca0506-f85c-407a-b87c-8f4a464f55a0.png)<br><br>
+[Here,](https://user-images.githubusercontent.com/76821049/173803895-14ca0506-f85c-407a-b87c-8f4a464f55a0.png) it is revealed that most accidents happenned on a dry road surface under fine weather conditions with no high wind, except the autumn season during which most accidents happened when it rained with no high wind on a wet/damp road surface.<br><br>
 
 #### Influence of geographic variables<br>
 ![image](https://user-images.githubusercontent.com/76821049/173803311-c93984ab-9008-40e2-99de-a4f997f0488a.png)<br>
