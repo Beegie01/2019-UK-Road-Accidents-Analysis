@@ -57,5 +57,5 @@ Statistical test results suggest that sunset caused a decline in accidents at 14
 
 #### Influence of Vehicular Variables<br>
 ![image](https://user-images.githubusercontent.com/76821049/173786685-22af2678-2099-4156-8947-4297654b85ef.png)<br>
-![image](https://user-images.githubusercontent.com/76821049/173787103-f72b5d2c-b667-4f8e-95ad-b7eedf4a6b0b.png)<br>
+![image](https://user-images.githubusercontent.com/76821049/173791164-c1f78588-66d0-4553-b782-e559ff732022.png)<br>
 Above diagrams illustrate that most accident-prone vehicles 7 year-old cars, vans, and pedal cycle having 124cc engine-capacity moving ahead on an unrestricted main carriageway in an area with speed limit of 30mph.
