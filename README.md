@@ -31,15 +31,19 @@ Statistical testing was performed using a pooled variance. Statistical significa
 #### Overall Observation<br>
 ![image](https://user-images.githubusercontent.com/76821049/173780394-dcdd3df2-a5e9-414a-b6a5-235c062cc562.png)<br><br>
 
-#### AM Accidents VS. PM Accidents<br>
+#### AM hourly accidents VS. PM hourly accidents<br>
 Statistical test results suggest that sunlight (brightness of day) which promotes human activity in general, increased the likelihood of an accident.<br>
+Below is an illustration of the hourly difference in accidents between AM and PM hours<br>
 ![image](https://user-images.githubusercontent.com/76821049/173707051-c74f17eb-171f-4b48-a86b-5a15ffc69e4e.png)<br>
 
 Statistical test results suggest that overall accidents were more likely to occur on the weekday than the weekend probably because more people commute on weekdays (e.g to schools, banks).<br>
+Below is an illustration of the hourly difference in accidents between AM and PM hours<br>
 ![image](https://user-images.githubusercontent.com/76821049/173707403-288fadad-58b4-4aa5-95a0-a34424164a5d.png)<br><br>
 
-![image](https://user-images.githubusercontent.com/76821049/173777508-fc7ce2e2-fdb6-4016-948f-45d139d34681.png)<br>
-Statistical test results suggest that nighttime accidents were more likely to occur on a Friday-Saturday-Sunday than a Monday-Tuesday-Wednesday-Thursday.<br><br>
+#### Daily road accidents<br>
+Statistical test results suggest that nighttime accidents were more likely to occur on a Friday-Saturday-Sunday than a Monday-Tuesday-Wednesday-Thursday.<br>
+Below is an illustration of weekday accidents per part of day<br>
+![image](https://user-images.githubusercontent.com/76821049/173777508-fc7ce2e2-fdb6-4016-948f-45d139d34681.png)<br><br>
 
 #### Pedestrian Accidents<br>
 ![image](https://user-images.githubusercontent.com/76821049/173781853-d62304e3-b029-45a2-9c19-ae8fe1907ef0.png)<br><br>
