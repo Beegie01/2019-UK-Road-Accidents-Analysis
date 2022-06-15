@@ -30,12 +30,13 @@ Statistical testing was performed using a pooled variance. Statistical significa
 
 #### Overall Observation<br>
 ![image](https://user-images.githubusercontent.com/76821049/173780394-dcdd3df2-a5e9-414a-b6a5-235c062cc562.png)<br><br>
-#### AM Accidents VS. PM Accidents<br>
-![image](https://user-images.githubusercontent.com/76821049/173707051-c74f17eb-171f-4b48-a86b-5a15ffc69e4e.png)<br>
-Statistical test results suggest that sunlight (brightness of day) which promotes human activity in general, increased the likelihood of an accident.<br>
 
-![image](https://user-images.githubusercontent.com/76821049/173707403-288fadad-58b4-4aa5-95a0-a34424164a5d.png)<br>
-Statistical test results suggest that overall accidents were more likely to occur on the weekday than the weekend probably because more people commute on weekdays (e.g to schools, banks).<br><br>
+#### AM Accidents VS. PM Accidents<br>
+Statistical test results suggest that sunlight (brightness of day) which promotes human activity in general, increased the likelihood of an accident.<br>
+![image](https://user-images.githubusercontent.com/76821049/173707051-c74f17eb-171f-4b48-a86b-5a15ffc69e4e.png)<br>
+
+Statistical test results suggest that overall accidents were more likely to occur on the weekday than the weekend probably because more people commute on weekdays (e.g to schools, banks).<br>
+![image](https://user-images.githubusercontent.com/76821049/173707403-288fadad-58b4-4aa5-95a0-a34424164a5d.png)<br><br>
 
 ![image](https://user-images.githubusercontent.com/76821049/173777508-fc7ce2e2-fdb6-4016-948f-45d139d34681.png)<br>
 Statistical test results suggest that nighttime accidents were more likely to occur on a Friday-Saturday-Sunday than a Monday-Tuesday-Wednesday-Thursday.<br><br>
@@ -55,7 +56,10 @@ Statistical test results suggest that sunrise caused an increase in accidents at
 ![image](https://user-images.githubusercontent.com/76821049/173785534-3c6e38fc-b909-427a-bd27-998e7c51ee5c.png)<br>
 Statistical test results suggest that sunset caused a decline in accidents at 14pm – 15.59pm.<br><br>
 
-#### Influence of Vehicular Variables<br>
+#### Influence of Vehicular Variables on road accidents<br>
+Below diagrams illustrate that the most accident-prone vehicles were 7 year-old cars, vans, and pedal cycles having 124cc engine-capacity moving ahead on an unrestricted main carriageway in a 30mph speed limit zone.
 ![image](https://user-images.githubusercontent.com/76821049/173786685-22af2678-2099-4156-8947-4297654b85ef.png)<br>
-![image](https://user-images.githubusercontent.com/76821049/173791164-c1f78588-66d0-4553-b782-e559ff732022.png)<br>
-Above diagrams illustrate that most accident-prone vehicles 7 year-old cars, vans, and pedal cycle having 124cc engine-capacity moving ahead on an unrestricted main carriageway in an area with speed limit of 30mph.
+![image](https://user-images.githubusercontent.com/76821049/173791164-c1f78588-66d0-4553-b782-e559ff732022.png)<br><br>
+
+#### Influence of Weather on road accidents<br>
+![image](https://user-images.githubusercontent.com/76821049/173792405-7c930e6f-4d19-431e-9f79-fad9e6951c5e.png)<br>
