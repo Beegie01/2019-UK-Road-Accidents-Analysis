@@ -94,3 +94,5 @@ Sunday nights.
 3. Increase the speed bumps and add minor road demarcations (where possible) to the busiest non-restricted single carriageways in places like Birmingham, Kent, and Cornwall.
 4. Ensure that all streetlights along public roads are in good conditions to aid night visibility and 
 increase traffic controls (human/facility) on single carriageways
+
+#### NOTE: for details please read open this file 'Road_Accident_Report2.pdf'.
