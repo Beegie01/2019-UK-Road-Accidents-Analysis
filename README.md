@@ -82,7 +82,7 @@ Below diagrams illustrate that the most accident-prone vehicles were 7 year-old 
 [This](https://user-images.githubusercontent.com/76821049/173861914-2cf4bb43-7e80-4c6a-8577-3ba0aaf6e9b2.png) indicates that male car drivers driving on undemarcated main carriageways heading to unknown destinations were the most likely victims of minor and serious accidents.<br><br>
 
 #### Influence of the Premier League season on road accidents<br>
-[This](https://user-images.githubusercontent.com/76821049/173863502-57f1e2fd-b51a-403a-b949-2c323efd22dd.png) indicates that road accidents during league season was highest on Tuesday, Friday, and Saturday afternoons. While accidents during league offseason was highest on Monday, Thursday, and Friday afternoons.<br>
+[This](https://user-images.githubusercontent.com/76821049/173863502-57f1e2fd-b51a-403a-b949-2c323efd22dd.png) indicates that road accidents during league season was highest on Tuesday, Friday, and Saturday afternoons. While accidents during league offseason was highest on Monday, Thursday, and Friday afternoons.<br><br>
 
 ### v. RECOMMENDATIONS
 1. More campaigns should be taken to venues like football stadiums and sports centers in the top ten
@@ -91,6 +91,6 @@ sunrise and sunset hours.
 2. Always enforce a strict adherence to the speed limit, penalize defaulters and test the alcohol/drug
 level of suspected drivers before allowing them back on the road especially on Friday, Saturday and 
 Sunday nights.
-3. Increase the speed bumps and add minor road demarcations (where possible) to the busiest nonrestricted single carriageways in places like Birmingham, Kent, and Cornwall.
+3. Increase the speed bumps and add minor road demarcations (where possible) to the busiest non-restricted single carriageways in places like Birmingham, Kent, and Cornwall.
 4. Ensure that all streetlights along public roads are in good conditions to aid night visibility and 
 increase traffic controls (human/facility) on single carriageways
