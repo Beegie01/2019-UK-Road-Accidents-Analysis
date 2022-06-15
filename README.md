@@ -30,7 +30,7 @@ Statistical testing was performed using a pooled variance. Statistical significa
 
 #### Overall Observation<br>
 ![image](https://user-images.githubusercontent.com/76821049/173780394-dcdd3df2-a5e9-414a-b6a5-235c062cc562.png)<br><br>
-#### AM VS. PM ACCIDENTS<br>
+#### AM Accidents VS. PM Accidents<br>
 ![image](https://user-images.githubusercontent.com/76821049/173707051-c74f17eb-171f-4b48-a86b-5a15ffc69e4e.png)<br>
 Statistical test results suggest that sunlight (brightness of day) which promotes human activity in general, increased the likelihood of an accident.<br>
 
@@ -45,4 +45,5 @@ Statistical test results suggest that nighttime accidents were more likely to oc
 
 #### Effect of Daylight Saving Time (DST) on road accidents<br>
 ![image](https://user-images.githubusercontent.com/76821049/173783234-ac2c105e-7efe-4084-889e-8b56d392a0ab.png)<br>
-Statistical test results suggest that onset of DST caused a decrease in 9am – 11.59am accidents.
+Statistical test results suggest that onset of DST caused a decrease in 9am – 11.59am accidents.<br><br>
+![image](https://user-images.githubusercontent.com/76821049/173784235-80d259bd-fab5-49e3-b002-17450e6789f5.png)<br>
