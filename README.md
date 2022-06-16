@@ -1,5 +1,5 @@
 # 2019-UK-Road-Accidents-Data-Mining
-This is my analysis of 2019 road accidents in the UK. Data (accessible online via www.gov.uk) were in separate CSV and XLS files. The datasets were merged on their common identifier, ‘accident_index’, and the result was a table having 295,579 rows and 69 columns. <br><br>
+This is my analysis of 2019 road accidents in the UK. Data (accessible online via www.gov.uk) were in separate CSV and XLS files. The datasets were each joined by a common identifier, ‘accident_index’, and the result was a table having 295,579 rows and 69 columns.<br><br>
 My goal was to extract sufficient knowledge from the data through analyses and use this knowledge to build a predictive model that can assist government officials in making precautionary policies to prevent enabling conditions for road accidents.<br>
 The project consisted of the following subtasks: data cleaning, feature engineering, correlation analysis, association mining, inferential statistics, and recommendation.<br><br>
 ### i. DATA CLEANING:<br>
