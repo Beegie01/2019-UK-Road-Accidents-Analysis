@@ -1,4 +1,5 @@
 # 2019-UK-Road-Accidents-Data-Mining
+![image](https://github.com/Beegie01/2019-UK-Road-Accidents-Analysis/blob/main/hist_hourly_general.png?raw=true)
 This is my analysis of 2019 road accident records in the UK. Data (accessible online via www.gov.uk) were in separate CSV and XLS files. The datasets were each joined by a common identifier, ‘accident_index’, and the result was a table having 295,579 rows and 69 columns.<br><br>
 My goal was to extract sufficient knowledge from the data through analyses and pattern mining techniques, and use this knowledge to assist government officials in making precautionary policies to prevent enabling conditions for road accidents.<br>
 The project consisted of the following subtasks: data cleaning, feature engineering, correlation analysis, association mining, inferential statistics, and recommendation.<br><br>
