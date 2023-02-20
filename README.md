@@ -93,7 +93,7 @@ Majority of the [**top ten accident-prone UK highways of 2019**](https://user-im
 ### v. RECOMMENDATIONS
 1. More campaigns should be taken to venues like football stadiums and sports centers in the top ten
 districts to educate young males about dangers of over-speeding, drunk driving, and driving at 
-sunrise and sunset hours.
+sunrise hours.
 2. Always enforce a strict adherence to the speed limit, penalize defaulters and test the alcohol/drug
 level of suspected drivers before allowing them back on the road especially on Friday, Saturday and 
 Sunday nights.
