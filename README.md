@@ -83,6 +83,7 @@ Majority of the [**top ten accident-prone UK highways of 2019**](https://user-im
 [This](https://user-images.githubusercontent.com/76821049/173859085-ac629efe-7664-45d2-a5b1-4ed24afb9044.png) indicates that most of the accident casualties were car drivers and passengers travelling on single carriageways with little or no junction  and pedestrian crossing controls.<br><br>
 
 #### Influence of Driver-related variables<br>
+!(https://github.com/Beegie01/2019-UK-Road-Accidents-Analysis/blob/main/driver_age_bracket.png)
 [This](https://user-images.githubusercontent.com/76821049/173860703-222e8f65-b65e-4232-b5c9-36543c3f8238.png) indicates that the most accident-prone drivers are male drivers between ages 16 and 65 years.
 [This](https://user-images.githubusercontent.com/76821049/173861914-2cf4bb43-7e80-4c6a-8577-3ba0aaf6e9b2.png) indicates that male car drivers driving to unknown destinations on unrestricted main carriageways were the most likely victims of minor and serious accidents.<br><br>
 
