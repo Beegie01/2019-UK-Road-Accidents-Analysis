@@ -99,5 +99,6 @@ sunrise hours.
 level of suspected drivers before allowing them back on the road especially on Friday, Saturday and 
 Sunday nights.
 3. Increase the speed bumps and add minor road demarcations (where possible) to the busiest non-restricted single carriageways in places like Birmingham, Kent, and Cornwall.
-4. Ensure that all streetlights along public roads are in good conditions to aid night visibility and 
-increase traffic controls (human/facility) on single carriageways
+4. Improve the quality of public transport facilities and provide incentives to passengers to encourage wider use of public transportation (reduce number of cars on the road).
+![image](https://user-images.githubusercontent.com/76821049/220367798-d0d57603-4e64-4617-af19-27156a38b575.png)
+
